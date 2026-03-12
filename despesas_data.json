@@ -1,0 +1,40 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "date": "2026-03-12",
+            "description": "Tibia",
+            "amount": 250.0,
+            "category": "Jogo"
+        },
+        {
+            "id": 2,
+            "date": "2026-03-12",
+            "description": "Sair com Léo",
+            "amount": 120.3,
+            "category": "lazer"
+        },
+        {
+            "id": 3,
+            "date": "2026-03-12",
+            "description": "Creme de cabelo",
+            "amount": 20.0,
+            "category": "produto"
+        },
+        {
+            "id": 4,
+            "date": "2026-03-12",
+            "description": "transporte trabalho",
+            "amount": 23.6,
+            "category": "transporte"
+        },
+        {
+            "id": 5,
+            "date": "2026-03-12",
+            "description": "Sub twitch prime",
+            "amount": 10.0,
+            "category": "Lazer"
+        }
+    ],
+    "budgets": {}
+}
