@@ -282,7 +282,7 @@ def parse_args():
         parser.print_help()
 
 def main():
-    # Se não houver argumentos, abre o Menu Interativo (ótimo para uso como um .exe)
+    
     if len(sys.argv) == 1:
         interactive_menu()
     else:
